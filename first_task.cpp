@@ -7,7 +7,6 @@ int main()
     {
         epsf /= 10;  
     }
-    epsf * 10;
     cout << epsf << endl;
 
     double epsd = 1;
@@ -15,6 +14,5 @@ int main()
     {
         epsd /= 10;  
     }
-    epsd * 10;
     cout << epsd;
 }
